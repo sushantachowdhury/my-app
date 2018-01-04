@@ -1,5 +1,50 @@
-git init
+git init // initialize local git respository
 
 ----
 git config --global user.name 'Sushanta Chowdhury'
 git config --global user.email 'sushanta.brainium"gmail.com'
+
+
+
+git add index.html // add file(s) to index
+
+git status // check status of working tree
+
+git rm --cached index.html  // remove to cached
+
+
+git add *.html // get add all html
+
+git add . // get add all file
+
+git status
+
+git commit // commit changes in index
+
+after click i than show --INSERT--
+
+wq // back to comment
+
+git push // push to Remote Repository
+
+
+git pull // Pull  latest form remote Repository
+
+git clone // clone repository into a new Directory
+
+
+touch .gitingore
+
+touch log.text
+
+
+http://git-scm.com/download/win
+
+
+git commit -m 'change app.js'
+
+
+
+
+
+
