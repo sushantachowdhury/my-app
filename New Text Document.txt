@@ -43,6 +43,23 @@ http://git-scm.com/download/win
 
 git commit -m 'change app.js'
 
+git branch login
+git status
+git commit -m 'another changes'
+
+git checkout login
+
+touch login.html
+
+git add .
+
+git commit -m 'login form'
+
+git checkout master // (switched to branch 'master')
+
+git merge login // ()
+
+
 
 
 
