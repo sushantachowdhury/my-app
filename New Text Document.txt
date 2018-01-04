@@ -38,6 +38,7 @@ touch .gitingore
 touch log.text
 
 
+
 http://git-scm.com/download/win
 
 
@@ -58,6 +59,15 @@ git commit -m 'login form'
 git checkout master // (switched to branch 'master')
 
 git merge login // ()
+
+
+git remote
+
+
+git push -u origin master
+
+touch README.md
+
 
 
 
